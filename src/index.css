@@ -65,3 +65,7 @@ nav a:active {
 #about a {
   display: block;
 }
+
+#links a {
+  display: block;
+}
